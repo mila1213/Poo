@@ -22,6 +22,7 @@ public class Inventario {
         System.out.println("Cantidad en stock: " + stock);
         System.out.println("Valor unitario: " + valor);
         System.out.println(">> Valor total del stock: " + total);
+        // COMENTARIO
 
     }
 }
